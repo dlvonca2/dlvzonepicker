@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DLVZonePicker</string>
+    <string name="zone1percent">Zone1</string>
+    <string name="zone2percent">Zone2</string>
+    <string name="zone3percent">Zone3</string>
+    <string name="zone4percent">Zone4</string>
+    <string name="zone5percent">Zone5</string>
+    <string name="zone6percent">Zone6</string>
+    <string name="zone7percent">Zone7</string>
+    <string name="zone8percent">Zone8</string>
+    <string name="zone9percent">Zone9</string>
+    <string name="roll">Roll</string>
+</resources>
